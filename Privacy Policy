@@ -68,7 +68,7 @@ You can control cookies via browser settings; see §5 for details.
 | Purpose | Examples | Legal Basis* |
 |---------|----------|-------------|
 | **Service Delivery** | create accounts, sync progress across devices, process purchases, provide customer support | Contract, Legitimate Interests |
-| **Personalisation & AI** | recommend content, tailor offers & pricing, route support tickets via machine-learning models | Legitimate Interests, Consent |
+| **Personalisation & AI** | adjust difficulty, recommend content, tailor offers & pricing, route support tickets via machine-learning models | Legitimate Interests, Consent |
 | **Marketing & Communications** | send newsletters, push notifications, promotions | Consent or Legitimate Interests (soft opt-in) |
 | **Security & Anti-Cheat** | authenticate users, detect fraud, enforce bans, moderate chat (logs retained ≤ 30 days) | Legitimate Interests, Legal Obligation |
 | **Analytics & Research** | understand usage, test features, improve Services | Legitimate Interests |
@@ -85,7 +85,7 @@ You can control cookies via browser settings; see §5 for details.
 We do **not** sell your personal information.  We may share it:
 1. **Affiliates & Service Providers** – cloud hosting, analytics, payment, customer support, marketing services.
 2. **Other Players & the Public** – leaderboard names, user-generated content, or if you use social-sharing features.
-3. **Marketing & Advertising Partners** – to deliver and measure ads (see §5).
+3. **Marketing & Advertising Partners** – to deliver and measure ads (see §5).  A list of key advertising/analytics partners is available on request.
 4. **Contests / Co-Branded Promotions** – with sponsors when you opt in.
 5. **Law Enforcement & Legal Requests** – when required by law or to protect rights, property, or safety.
 6. **Business Transfers** – as part of a merger, acquisition, or asset sale.
@@ -102,6 +102,7 @@ We (and partners) use cookies, device IDs, and similar tech to show ads more rel
 * **In-app:** toggle "Personalised Ads" in _Settings → Privacy_.
 * **Device:** disable "Allow Apps to Request to Track" (iOS) or "Opt-out of Ads Personalisation" (Android).
 * **Browser:** block cookies via browser settings.
+* **Opt-out links:** available on request via `privacy@jamskygames.com`.
 
 <br/>
 <div id="rights"></div>
